@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Antonio 👋
 
-<!--
-**ilreddo/ilreddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Software Engineer working in Reading, UK.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Developing a **personal finance PWA**
+- 📷 Working on a long term photo reportage about **climate change**
+- 🪵 Crafting **kitchen wooden tools**
+- 🍺 Brewing my first **pale ale**
+
+##### BIO
+
+- 🏢 I'm currently working at [Fika | Mental Fitness](https://www.fika.community)
+- ⚙️ I use daily: `React`, `Next.JS`, `React Native`, `Node`, `Firebase`
+- 🌍 I'm mostly active within the **Javascript London Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **javascript**, **IoT**, **full-stack development**, **linux**, **personal finance**
+- 📫 Reach me: [twitter.com/ilreddo](https://twitter.com/ilreddo)
+- ⚡️ Fun fact: I'm a huge fan of **Battlestar Galactica**

@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 💻 Re-developing a **my personal website**
+- 💻 Re-developing **my personal website**
 - 🌐 Developing a **personal finance PWA**
 - 📷 Working on a long term photo reportage about **climate change**
 - 🪵 Crafting **kitchen wooden tools**

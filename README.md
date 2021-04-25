@@ -3,11 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/antoniorossii/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/home)
 
-<br>
-
 #### I'm a Software Engineer working in Reading, UK.
-
-<br>
 
 #### BIO
 
@@ -18,8 +14,6 @@
 - 💬 Ping me about **javascript**, **IoT**, **full-stack development**, **linux**, **climate change**, **personal finance**
 - 📫 Reach me: [twitter.com/ilreddo](https://twitter.com/ilreddo)
 - ⚡️ Fun fact: I'm a huge fan of **Battlestar Galactica**
-
-<br>
 
 #### CURRENT PERSONAL PROJECTS
 
@@ -48,15 +42,11 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=055eb1)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=055eb1)
 
-<br>
-
 ![](https://img.shields.io/badge/Test-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=055eb1)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=055eb1)
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=055eb1)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=055eb1)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=055eb1)
-
-<br>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=055eb1)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=055eb1)
@@ -69,8 +59,6 @@
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=055eb1)
 
 </details>
-
-<br>
 
 ##### STATS
 

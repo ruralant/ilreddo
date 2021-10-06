@@ -7,7 +7,7 @@
 
 #### BIO
 
-- 🏢 I'm currently working at [Fika | Mental Fitness](https://www.fika.community)
+- 🏢  I'm currently working at [Fika | Mental Fitness](https://www.fika.community)
 - ⚙️ I use daily: `React`, `Next.JS`, `React Native`, `Redux`, `Node`, `Firebase`
 - 🌍 I'm mostly active within the **Javascript and Node London Community**
 - 🌱 Learning all about **Open Source**

@@ -17,7 +17,7 @@
 
 #### CURRENT PERSONAL PROJECTS
 
-- 💻 Re-developing **my personal website**
+- 💻 Re-developing **my personal website with Svelte**
 - 🌐 Developing a **personal finance PWA**
 - 📷 Working on a long term photo reportage about **climate change**
 - 🪵 Crafting **kitchen wooden tools**
